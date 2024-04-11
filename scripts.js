@@ -1,3 +1,6 @@
+//
+// Add this code to your main js file, or move it to a separate file.
+//
 // A function for obtaining data from a cookie by key
 function getCookie(name) {
     let matches = document.cookie.match(new RegExp(
