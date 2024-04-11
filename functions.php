@@ -1,6 +1,7 @@
 <?php 
+// !!!Be sure to connect Ajax
 // Add this code to your theme's functions.php file
-
+//
 // Reactions to publications
 function update_reaction_count() {
 
